@@ -3,7 +3,7 @@
 An end-to-end Management Information System (MIS) dashboard built to track retail revenue, profit margins, seasonality, and inventory movement across product categories and regions.
 
 ## Dashboard Preview
-![Sales and Inventory MIS Dashboard](sales_and_inventory_dashboard.png)
+![Sales and Inventory MIS Dashboard](sales_and_inventory_mis_dashboard.png)
 
 ## Executive Summary & Key Metrics
 * **Total Revenue:** ₹ 2.30M
